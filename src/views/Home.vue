@@ -750,7 +750,7 @@ export default {
 .service-cardborder:hover {
     background: blue;
     color: white;
-    transform: translate(0%, -20%) scale(1.2);
+    transform: scale(1.1);
     /* Scale up and keep it centered */
 }
 

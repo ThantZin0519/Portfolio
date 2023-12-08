@@ -100,7 +100,7 @@
             </nav>
         </div>
         <div class="div-container">
-            <img class="div-img" src="../../public/assets/images/mountain.png" alt="">
+            <img class="div-img" src="../../public/assets/images/sea.jpg" alt="">
             <div class="welcome">WELCOME</div>
         </div>
         <div class="clear">
@@ -379,13 +379,17 @@ export default {
         display: flex;
         justify-content: center;
         align-items: center;
+        /* bg test start  */
+        /* height: 60px;
+        background-color: black; */
+        /* bg test end  */
     }
     .welcome {
         position: absolute;
         top: 50%;
         left: -100%;
         transform: translate(-50%, -50%);
-        color: green;
+        color: yellow;
         font-size: 30px;
         white-space: nowrap;
         animation: slide-in 4s linear forwards;
