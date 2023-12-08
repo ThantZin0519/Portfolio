@@ -33,7 +33,6 @@
                                 Laravel framework at Myanmar Golden Dragon International Mall(MGD Mall).
                                 I have gained a strong understanding of server-side scripting, MVC architecture, and
                                 database management.
-                                <!-- , I have gained a strong understanding of server-side scripting, MVC architecture, and database management. -->
                             </p>
 
                             <p>Throughout my studies, I have acquired a solid foundation in programming languages like HTML,
