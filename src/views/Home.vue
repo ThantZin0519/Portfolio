@@ -265,121 +265,126 @@
 
 
         </div>
-        <div class="blog" id="blog">
-            <div class="div-contents"></div>
-            <h1 class="text-center">Recommandations</h1>
-            <div class="blog-paragraph">
-                    <p>
-                        Start by learning HTML and CSS, the building blocks of web development. Once comfortable, explore frameworks like Bootstrap or Tailwind CSS for easier styling. Then, delve into JavaScript for interactivity, and jQuery for simplified coding.                
-                    </p>
+            <div class="blog" id="blog">
+                <div class="div-contents"></div>
+                <div class="blog-paragraph">
+                        <h1 class="text-center">Recommandations</h1>
 
-                    <p>
-                        For back-end development, consider learning PHP. It's beginner-friendly and widely used. Mastering these steps will provide a strong foundation in both front-end and back-end web development.
-                    </p>
-            </div>
-                <div>
-                    <div class="row blog-div-padding">
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                                <div class="image-container">
-                                    <a href="https://www.w3schools.com/html/" target="_blank">
-                                        <div class="image-overlay">
-                                            <div class="service-cards-contents">
-                                                Learning HTML CSS with w3schools
-                                            </div>
-                                            <img src="../../public/assets/blogs/w3school.png" alt="">
-                                           
-                                            <div class="overlay-text">
-                                                    <i class="fa-regular fa-circle-right"></i>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                            <div class="image-container">
-                                <a href="https://www.youtube.com/watch?v=2KWdT4PkXgY" target="_blank">
-                                        <div class="image-overlay">
-                                        <div class="service-cards-contents">
-                                                CSS Tips And Tricks I Wish I Knew Before
-                                        </div>
-                                        <img src="../../public/assets/blogs/css.png" alt="">
-                        
-                                        <div class="overlay-text">
-                                                <i class="fa-regular fa-circle-right"></i>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                                <div class="image-container">
-                                    <a href="https://youtu.be/9cKsq14Kfsw/" target="_blank">
-                                        <div class="image-overlay">
-                                            <div class="service-cards-contents">
-                                                Easy to Learn Bootstrap
-                                            </div>
-                                            <img src="../../public/assets/blogs/bootstrap.png" alt="">                                        
-                                            <div class="overlay-text">
-                                                    <i class="fa-regular fa-circle-right"></i>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                        </div>                       
-                        
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                            <div class="image-container">
-                                <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
-                                        <div class="image-overlay">
-                                        <div class="service-cards-contents">
-                                            Learning JavaScript from MDN
-                                        </div>
-                                        <img src="../../public/assets/blogs/javascript.jpg" alt="">
-                                
-                                        <div class="overlay-text">
-                                                <i class="fa-regular fa-circle-right"></i>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                                <div class="image-container">
-                                    <a href="https://www.coursera.org/" target="_blank">
-                                            <div class="image-overlay">
-                                            <div class="service-cards-contents">
-                                                Learning with Coursera Courses
-                                            </div>
-                                            <img src="../../public/assets/blogs/coursera2.png" alt="">
-                                    
-                                            <div class="overlay-text">
-                                                    <i class="fa-regular fa-circle-right"></i>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                            <div class="image-container">
-                                <a href="https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path" target="_blank">
-                                        <div class="image-overlay">
-                                        <div class="service-cards-contents">
-                                            Laravel Roadmap by PovilasKorop
-                                        </div>
-                                        <img src="../../public/assets/blogs/laravel.jpg" alt="">
-                                
-                                        <div class="overlay-text">
-                                                <i class="fa-regular fa-circle-right"></i>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        
-                    </div>
+                        <p>
+                            Start by learning HTML and CSS, the building blocks of web development. Once comfortable, explore frameworks like Bootstrap or Tailwind CSS for easier styling. Then, delve into JavaScript for interactivity, and jQuery for simplified coding.                
+                        </p>
+
+                        <p>
+                            For back-end development, consider learning PHP. It's beginner-friendly and widely used. Mastering these steps will provide a strong foundation in both front-end and back-end web development.
+                        </p>
                 </div>
+                    <div>
+                        <div class=" ">
+                        
+                            <div class="row blog-div-padding">
+                                     <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                            <div class="image-container">
+                                                <a href="https://www.w3schools.com/html/" target="_blank">
+                                                    <div class="image-overlay">
+                                                        <div class="service-cards-contents">
+                                                            Learning HTML CSS with w3schools
+                                                        </div>
+                                                        <img src="../../public/assets/blogs/w3school.png" alt="">
+                                        
+                                                        <div class="overlay-text">
+                                                                <i class="fa-regular fa-circle-right"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                        <div class="image-container">
+                                            <a href="https://www.youtube.com/watch?v=2KWdT4PkXgY" target="_blank">
+                                                    <div class="image-overlay">
+                                                    <div class="service-cards-contents">
+                                                            CSS Tips And Tricks I Wish I Knew Before
+                                                    </div>
+                                                    <img src="../../public/assets/blogs/css.png" alt="">
+                        
+                                                    <div class="overlay-text">
+                                                            <i class="fa-regular fa-circle-right"></i>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                            <div class="image-container">
+                                                <a href="https://youtu.be/9cKsq14Kfsw/" target="_blank">
+                                                    <div class="image-overlay">
+                                                        <div class="service-cards-contents">
+                                                            Easy to Learn Bootstrap
+                                                        </div>
+                                                        <img src="../../public/assets/blogs/bootstrap.png" alt="">                                        
+                                                        <div class="overlay-text">
+                                                                <i class="fa-regular fa-circle-right"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                    </div>                      
+                        
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                        <div class="image-container">
+                                            <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
+                                                    <div class="image-overlay">
+                                                    <div class="service-cards-contents">
+                                                        Learning JavaScript from MDN
+                                                    </div>
+                                                    <img src="../../public/assets/blogs/javascript.jpg" alt="">
+                                
+                                                    <div class="overlay-text">
+                                                            <i class="fa-regular fa-circle-right"></i>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                        <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                            <div class="image-container">
+                                                <a href="https://www.coursera.org/" target="_blank">
+                                                        <div class="image-overlay">
+                                                        <div class="service-cards-contents">
+                                                            Learning with Coursera Courses
+                                                        </div>
+                                                        <img src="../../public/assets/blogs/coursera2.png" alt="">
+                                    
+                                                        <div class="overlay-text">
+                                                                <i class="fa-regular fa-circle-right"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                        <div class="image-container">
+                                            <a href="https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path" target="_blank">
+                                                    <div class="image-overlay">
+                                                    <div class="service-cards-contents">
+                                                        Laravel Roadmap by PovilasKorop
+                                                    </div>
+                                                    <img src="../../public/assets/blogs/laravel.jpg" alt="">
+                                
+                                                    <div class="overlay-text">
+                                                            <i class="fa-regular fa-circle-right"></i>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                            </div>
+                       
+                        
+                        </div>
+                    </div>
             
-        </div>
+            </div>
         <div class="contact" id="contact">
             <div class="div-contents"></div>
                 <h1 class="text-center">Get In Touch</h1>
@@ -590,6 +595,7 @@ export default {
 }
 .blog-div-padding{
     padding-left: 6vw;
+    width: 100%;
 }
 /* mobile and tablet */
 @media (min-width: 650px) {
