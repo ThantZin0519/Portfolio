@@ -741,7 +741,7 @@ export default {
     background: blue;
     color: white;
     /* Example gradient */
-    height: 45vh;
+    height: 300px;
     border-radius: 1vw;
     transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
 }
