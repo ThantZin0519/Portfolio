@@ -265,174 +265,174 @@
 
 
         </div>
-            <div class="blog" id="blog">
-                <div class="div-contents"></div>
-                <div class="blog-paragraph">
-                        <h1 class="text-center">Recommandations</h1>
+        <div class="blog" id="blog">
+            <div class="div-contents"></div>
+            <div class="blog-paragraph">
+                    <h1 class="text-center">Recommandations</h1>
 
-                        <p>
-                            Start by learning HTML and CSS, the building blocks of web development. Once comfortable, explore frameworks like Bootstrap or Tailwind CSS for easier styling. Then, delve into JavaScript for interactivity, and jQuery for simplified coding.                
-                        </p>
+                    <p>
+                        Start by learning HTML and CSS, the building blocks of web development. Once comfortable, explore frameworks like Bootstrap or Tailwind CSS for easier styling. Then, delve into JavaScript for interactivity, and jQuery for simplified coding.                
+                    </p>
 
-                        <p>
-                            For back-end development, consider learning PHP. It's beginner-friendly and widely used. Mastering these steps will provide a strong foundation in both front-end and back-end web development.
-                        </p>
-                </div>
-                    <div>
-                        <div class=" ">
-                        
-                            <div class="row blog-div-padding">
-                                     <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                                            <div class="image-container">
-                                                <a href="https://www.w3schools.com/html/" target="_blank">
-                                                    <div class="image-overlay">
-                                                        <div class="service-cards-contents">
-                                                            Learning HTML CSS with w3schools
-                                                        </div>
-                                                        <img src="../../public/assets/blogs/w3school.png" alt="">
-                                        
-                                                        <div class="overlay-text">
-                                                                <i class="fa-regular fa-circle-right"></i>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                                        <div class="image-container">
-                                            <a href="https://www.youtube.com/watch?v=2KWdT4PkXgY" target="_blank">
-                                                    <div class="image-overlay">
-                                                    <div class="service-cards-contents">
-                                                            CSS Tips And Tricks I Wish I Knew Before
-                                                    </div>
-                                                    <img src="../../public/assets/blogs/css.png" alt="">
-                        
-                                                    <div class="overlay-text">
-                                                            <i class="fa-regular fa-circle-right"></i>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                                            <div class="image-container">
-                                                <a href="https://youtu.be/9cKsq14Kfsw/" target="_blank">
-                                                    <div class="image-overlay">
-                                                        <div class="service-cards-contents">
-                                                            Easy to Learn Bootstrap
-                                                        </div>
-                                                        <img src="../../public/assets/blogs/bootstrap.png" alt="">                                        
-                                                        <div class="overlay-text">
-                                                                <i class="fa-regular fa-circle-right"></i>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                    </div>                      
-                        
-                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                                        <div class="image-container">
-                                            <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
-                                                    <div class="image-overlay">
-                                                    <div class="service-cards-contents">
-                                                        Learning JavaScript from MDN
-                                                    </div>
-                                                    <img src="../../public/assets/blogs/javascript.jpg" alt="">
-                                
-                                                    <div class="overlay-text">
-                                                            <i class="fa-regular fa-circle-right"></i>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                        <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                                            <div class="image-container">
-                                                <a href="https://www.coursera.org/" target="_blank">
-                                                        <div class="image-overlay">
-                                                        <div class="service-cards-contents">
-                                                            Learning with Coursera Courses
-                                                        </div>
-                                                        <img src="../../public/assets/blogs/coursera2.png" alt="">
-                                    
-                                                        <div class="overlay-text">
-                                                                <i class="fa-regular fa-circle-right"></i>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
-                                        <div class="image-container">
-                                            <a href="https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path" target="_blank">
-                                                    <div class="image-overlay">
-                                                    <div class="service-cards-contents">
-                                                        Laravel Roadmap by PovilasKorop
-                                                    </div>
-                                                    <img src="../../public/assets/blogs/laravel.jpg" alt="">
-                                
-                                                    <div class="overlay-text">
-                                                            <i class="fa-regular fa-circle-right"></i>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                            </div>
-                       
-                        
-                        </div>
-                    </div>
-            
+                    <p>
+                        For back-end development, consider learning PHP. It's beginner-friendly and widely used. Mastering these steps will provide a strong foundation in both front-end and back-end web development.
+                    </p>
             </div>
+                <div>
+                    <div class=" ">
+                    
+                        <div class="row blog-div-padding">
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                        <div class="image-container">
+                                            <a href="https://www.w3schools.com/html/" target="_blank">
+                                                <div class="image-overlay">
+                                                    <div class="service-cards-contents">
+                                                        Learning HTML CSS with w3schools
+                                                    </div>
+                                                    <img src="../../public/assets/blogs/w3school.png" alt="">
+                                    
+                                                    <div class="overlay-text">
+                                                            <i class="fa-regular fa-circle-right"></i>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                    <div class="image-container">
+                                        <a href="https://www.youtube.com/watch?v=2KWdT4PkXgY" target="_blank">
+                                                <div class="image-overlay">
+                                                <div class="service-cards-contents">
+                                                        CSS Tips And Tricks I Wish I Knew Before
+                                                </div>
+                                                <img src="../../public/assets/blogs/css.png" alt="">
+                    
+                                                <div class="overlay-text">
+                                                        <i class="fa-regular fa-circle-right"></i>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                        <div class="image-container">
+                                            <a href="https://youtu.be/9cKsq14Kfsw/" target="_blank">
+                                                <div class="image-overlay">
+                                                    <div class="service-cards-contents">
+                                                        Easy to Learn Bootstrap
+                                                    </div>
+                                                    <img src="../../public/assets/blogs/bootstrap.png" alt="">                                        
+                                                    <div class="overlay-text">
+                                                            <i class="fa-regular fa-circle-right"></i>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                </div>                      
+                    
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                    <div class="image-container">
+                                        <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
+                                                <div class="image-overlay">
+                                                <div class="service-cards-contents">
+                                                    Learning JavaScript from MDN
+                                                </div>
+                                                <img src="../../public/assets/blogs/javascript.jpg" alt="">
+                            
+                                                <div class="overlay-text">
+                                                        <i class="fa-regular fa-circle-right"></i>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                        <div class="image-container">
+                                            <a href="https://www.coursera.org/" target="_blank">
+                                                    <div class="image-overlay">
+                                                    <div class="service-cards-contents">
+                                                        Learning with Coursera Courses
+                                                    </div>
+                                                    <img src="../../public/assets/blogs/coursera2.png" alt="">
+                                
+                                                    <div class="overlay-text">
+                                                            <i class="fa-regular fa-circle-right"></i>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 blog-padding ">
+                                    <div class="image-container">
+                                        <a href="https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path" target="_blank">
+                                                <div class="image-overlay">
+                                                <div class="service-cards-contents">
+                                                    Laravel Roadmap by PovilasKorop
+                                                </div>
+                                                <img src="../../public/assets/blogs/laravel.jpg" alt="">
+                            
+                                                <div class="overlay-text">
+                                                        <i class="fa-regular fa-circle-right"></i>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                        </div>
+                    
+                    
+                    </div>
+                </div>
+        
+        </div>
         <div class="contact" id="contact">
             <div class="div-contents"></div>
-                <h1 class="text-center">Get In Touch</h1>
             <div class="text-center">
+                <h1>Get In Touch</h1>
                 <p>
                     You can contact  me for projects and knowledges that you wanna know about Web everytime.
                 </p>
             </div>
-                <div class="row service-padding ">
-                    <div class="col-lg-4  col-sm-12 col-12 mb-4 service-cards">
-                        <div class="service-cardborder service-hover1">
-                            <div class="d-flex justify-content-center">
-                                    <i class="fa-solid fa-map-location-dot contact-icons" ></i>
-                            </div>
-                            <h5 class="text-center contact-icon-font">Address</h5>
-                            <p class="text-center contact-icon-font">
-                                Yangon , Myanmar
-                            </p>
+            <div class="row contact-padding ">
+                <div class="col-lg-4  col-sm-12 col-12 mb-4 service-cards">
+                    <div class="service-cardborder service-hover1">
+                        <div class="d-flex justify-content-center">
+                                <i class="fa-solid fa-map-location-dot contact-icons" ></i>
                         </div>
-                    </div>
-                    <div class="col-lg-4  col-sm-12 col-12 mb-4 service-cards">
-                        <div class="service-cardborder service-hover2">
-                                 <div class="d-flex justify-content-center">
-                                        <i class="fa-solid fa-phone-volume contact-icons" ></i>
-                                </div>
-                                <h5 class="text-center contact-icon-font">Phone</h5>
-                                <p class="text-center contact-icon-font">
-                                    <a href="tel:+959776995184" style="color: white;">+95-9776995184</a><br>
-                                    <a href="tel:+959958772302" style="color: white;">+95-9958772302</a>
-                                </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4  col-sm-12 col-12 mb-4 service-cards">
-                        <div class="service-cardborder service-hover3">
-                            <div class="d-flex justify-content-center">
-                                    <i class="fa-solid fa-envelope contact-icons" ></i>
-                            </div>
-                            <h5 class="text-center contact-icon-font">Email</h5>
-                                <p class="text-center contact-icon-font" style="word-wrap: break-word;">
-                                    <a href="mailto:thantzin.099800@gmail.com" style="color: white; word-wrap: break-word;">
-                                        thantzin.099800@gmail.com
-                                    </a>
-                                </p>
-
-                        </div>
+                        <h5 class="text-center contact-icon-font">Address</h5>
+                        <p class="text-center contact-icon-font">
+                            Yangon , Myanmar
+                        </p>
                     </div>
                 </div>
-            <div class="row">
+                <div class="col-lg-4  col-sm-12 col-12 mb-4 service-cards">
+                    <div class="service-cardborder service-hover2">
+                                <div class="d-flex justify-content-center">
+                                    <i class="fa-solid fa-phone-volume contact-icons" ></i>
+                            </div>
+                            <h5 class="text-center contact-icon-font">Phone</h5>
+                            <p class="text-center contact-icon-font">
+                                <a href="tel:+959776995184" style="color: white;">+95-9776995184</a><br>
+                                <a href="tel:+959958772302" style="color: white;">+95-9958772302</a>
+                            </p>
+                    </div>
+                </div>
+                <div class="col-lg-4  col-sm-12 col-12 mb-4 service-cards">
+                    <div class="service-cardborder service-hover3">
+                        <div class="d-flex justify-content-center">
+                                <i class="fa-solid fa-envelope contact-icons" ></i>
+                        </div>
+                        <h5 class="text-center contact-icon-font">Email</h5>
+                            <p class="text-center contact-icon-font" style="word-wrap: break-word;">
+                                <a href="mailto:thantzin.099800@gmail.com" style="color: white; word-wrap: break-word;">
+                                    thantzin.099800@gmail.com
+                                </a>
+                            </p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row contact-padding">
                 <div class="col-lg-6  col-sm-12 col-12 mb-6 service-padding" > 
                     <div class="form-group mt-2 mb-3">
                         <label for="exampleInputEmail1">Name</label>
@@ -463,7 +463,6 @@
             </div>
     
         </div>
-        <!-- test start  -->
             <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
             <div class="modal-dialog modal-xl">
               <div class="modal-content bg-black" style="color:white;">
@@ -486,7 +485,6 @@
               </div>
               </div>
             </div>
-        <!-- test end  -->
     </div>
 </template>
 
@@ -494,7 +492,6 @@
 import MainNav from '../components/MainNav.vue'; // Import the MainNav component
 
 export default {
-    // Your component options here
     data() {
         return {
             name: null,
@@ -564,8 +561,6 @@ export default {
 </script>
 
 <style scoped>
-/* Your component styles here */
-/* test start  */
 /* bar start  */
 .skill-item {
     display: flex;
@@ -581,12 +576,8 @@ export default {
     text-align: center;
 }
 
-/* test end  */
-
-
 .portfolio {
     width: 100%;
-    /* height: 100vh; */
 }
 
 .blog-paragraph{
@@ -595,6 +586,9 @@ export default {
 }
 .blog-div-padding{
     padding-left: 6vw;
+    width: 100%;
+}
+.contact-padding{
     width: 100%;
 }
 /* mobile and tablet */
@@ -610,26 +604,18 @@ export default {
     .touch-indicator {
         position: absolute;
         bottom: 10px;
-        /* Adjust the vertical position as needed */
         left: 50%;
         transform: translateX(-50%);
         background-color: #0074e4;
-        /* Background color for the touch indicator */
         color: #fff;
-        /* Text color for the touch indicator */
         padding: 5px 10px;
-        /* Adjust padding as needed */
         border-radius: 5px;
         opacity: 0.9;
-        /* Initially hide the touch indicator */
         transition: opacity 1s ease-in-out;
     }
     .home-item-card {
-        /* width: 30rem; */
         height: 15rem;
         margin-left: 45vw;
-        /* border-radius: 2%; */
-        /* background-color: rgba(0, 0, 0, 0.2); */
         padding: 1%;
         margin-top: 37vh;
         position: absolute;
@@ -639,9 +625,6 @@ export default {
     padding-left: 9vw;
 }
 @media (max-width: 650px) {
-    .blog-padding{
-        padding-left: 9vw;
-    }
      .my-name{
         font-size: 2rem;
         color: yellow;
@@ -654,26 +637,18 @@ export default {
         position: absolute;
         width: 100px;
         bottom: 10px;
-        /* Adjust the vertical position as needed */
         left: 50%;
         transform: translateX(-50%);
         background-color: #0074e4;
-        /* Background color for the touch indicator */
         color: #fff;
-        /* Text color for the touch indicator */
         padding: 5px 10px;
-        /* Adjust padding as needed */
         border-radius: 5px;
         opacity: 0.9;
-        /* Initially hide the touch indicator */
         transition: opacity 1s ease-in-out;
     }
     .home-item-card {
-        /* width: 30rem; */
         height: 11rem;
         margin-left: 45vw;
-        /* border-radius: 2%; */
-        /* background-color: rgba(0, 0, 0, 0.2); */
         padding: 1%;
         margin-top: 37vh;
         position: absolute;
@@ -707,11 +682,6 @@ export default {
         display: flex;
         flex-wrap: wrap;
     }
-
-    /* .about-me-div{
-        flex-basis: 50%;
-        box-sizing: border-box;
-    } */
     .about-me-div:nth-child(1),
     .about-me-div:nth-child(3) {
         flex-basis: 50%;
@@ -724,9 +694,7 @@ export default {
         box-sizing: border-box;
     }
 }
-
 /* overall css start */
-
 
 .flex-container-aboutme {
     padding: 0vw 5vw;
@@ -749,7 +717,6 @@ export default {
 .service-cardborder {
     background: blue;
     color: white;
-    /* Example gradient */
     height: 300px;
     border-radius: 1vw;
     transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
@@ -760,7 +727,6 @@ export default {
     background: blue;
     color: white;
     transform: scale(1.1);
-    /* Scale up and keep it centered */
 }
 
 /* hover end  */
@@ -776,7 +742,6 @@ export default {
     position: relative;
     transition: background-image 1s ease-in;
 }
-/* test start  */
     .color-div1{
         background-color: blue;
         width: 56vw;
@@ -799,38 +764,23 @@ export default {
         background-color: #202026;
         width: 88vw;
         height: 10vh;
-        /* border-radius: 50%; */
         position: absolute;
         margin: 100vh 0vw;
     }
-
-/* test end  */
-/* touch indi start  */
-
-
-/* touch indicator end  */
-/* Sample CSS Styles */
-/* Styles for the container */
 .coming-soon-container {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    /* background-color: #f0f0f0; */
     margin-top: -15vh;
-    /* Adjust background color */
 }
 
-/* Styles for the text */
 .coming-soon-text {
     font-size: 3rem;
     font-weight: bold;
     color: #333;
-    /* Text color */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-    /* Text shadow */
     animation: pulse 3s ease-in-out infinite;
-    /* Animation */
 }
 
 /* Animation keyframes */
@@ -876,7 +826,6 @@ export default {
     }
 }
 
-/* test start  */
 .image-container {
     position: relative;
     display: inline-block;
@@ -892,7 +841,6 @@ export default {
 .image-overlay img {
     width: 18em;
     height: 44vh;
-    /* object-fit: cover; */
     transition: transform 0.3s ease;
 }
 
@@ -917,12 +865,13 @@ export default {
 }
 .service-cards-contents {
     position: absolute;
-    bottom: 0; /* Position at the bottom */
+    bottom: 0; 
     left: 0;
     background-color: white;
     color: black;
     font-weight: bold;
     font-size: 1.5rem;
+    width: 100%;
 }
 .contact-icons{
     padding-top: 3vh;
@@ -934,5 +883,4 @@ export default {
     padding-top: 3vh;
     color: white;
 }
-/* test end  */
-/* overall css end  */</style>
+</style>
