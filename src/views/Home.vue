@@ -149,7 +149,7 @@
         <div class="service service-background" id="service">
             <div class="div-contents"></div>
             <div>
-                <div class="row service-padding ">
+                <div class="service-padding ">
                     <div class="text-center">
                         <h1>Services</h1>
                         <p style="padding: 0vw 5vw;">Within my portfolio, you'll discover a rich kinds of services, each a
@@ -157,78 +157,81 @@
                             only elevate your experience but also to serve as better solutions that will meet to your
                             distinct requirements.</p>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
-                        <div class="service-cardborder service-hover1">
-                            <div class="d-flex justify-content-center">
-                                <img src="../../public/assets/services/http.gif" alt="" width="100" height="100" >
+                    <div class="row">
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
+                                <div class="service-cardborder service-hover1">
+                                    <div class="d-flex justify-content-center">
+                                        <img src="../../public/assets/services/http.gif" alt="" width="100" height="100" >
+                                    </div>
+                                    <h5 class="text-center">Web Application Development</h5>
+                                    <p>
+                                        Create dynamic and data-driven web applications using frameworks like Laravel, tailored to
+                                        meet your unique business needs.
+                                    </p>
+                                </div>
                             </div>
-                            <h5 class="text-center">Web Application Development</h5>
-                            <p>
-                                Create dynamic and data-driven web applications using frameworks like Laravel, tailored to
-                                meet your unique business needs.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
-                        <div class="service-cardborder service-hover2">
-                            <div class="d-flex justify-content-center">
-                                <img src="../../public/assets/services/custom_build.gif" alt="" width="100" height="100">
+                            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
+                                <div class="service-cardborder service-hover2">
+                                    <div class="d-flex justify-content-center">
+                                        <img src="../../public/assets/services/custom_build.gif" alt="" width="100" height="100">
+                                    </div>
+                                    <h5 class="text-center"> Custom Website Development</h5>
+                                    <p>
+                                        Craft visually appealing and responsive websites using HTML, CSS, JavaScript, and PHP,
+                                        designed to showcase your brand and engage your audience.
+                                    </p>
+                                </div>
                             </div>
-                            <h5 class="text-center"> Custom Website Development</h5>
-                            <p>
-                                Craft visually appealing and responsive websites using HTML, CSS, JavaScript, and PHP,
-                                designed to showcase your brand and engage your audience.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
-                        <div class="service-cardborder service-hover3">
-                            <div class="d-flex justify-content-center">
-                                <img src="../../public/assets/services/api.gif" alt="" width="100" height="100">
+                            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
+                                <div class="service-cardborder service-hover3">
+                                    <div class="d-flex justify-content-center">
+                                        <img src="../../public/assets/services/api.gif" alt="" width="100" height="100">
+                                    </div>
+                                    <h5 class="text-center"> API Development</h5>
+                                    <p>
+                                        Build robust APIs that facilitate seamless communication between different software systems,
+                                        enabling integrations and enhanced functionality.
+                                    </p>
+                                </div>
                             </div>
-                            <h5 class="text-center"> API Development</h5>
-                            <p>
-                                Build robust APIs that facilitate seamless communication between different software systems,
-                                enabling integrations and enhanced functionality.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
-                        <div class="service-cardborder service-hover4">
-                            <div class="d-flex justify-content-center">
-                                <img src="../../public/assets/services/e_solutions.gif" alt="" width="100" height="100">
+                            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
+                                <div class="service-cardborder service-hover4">
+                                    <div class="d-flex justify-content-center">
+                                        <img src="../../public/assets/services/e_solutions.gif" alt="" width="100" height="100">
+                                    </div>
+                                    <h5 class="text-center"> E-Commerce Solutions</h5>
+                                    <p>
+                                        Develop comprehensive online stores using platforms like Magento and WooCommerce, ensuring
+                                        secure transactions and efficient inventory management.
+                                    </p>
+                                </div>
                             </div>
-                            <h5 class="text-center"> E-Commerce Solutions</h5>
-                            <p>
-                                Develop comprehensive online stores using platforms like Magento and WooCommerce, ensuring
-                                secure transactions and efficient inventory management.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
-                        <div class="service-cardborder service-hover5">
-                            <div class="d-flex justify-content-center">
-                                <img src="../../public/assets/services/advices.gif" alt="" width="100" height="100">
+                            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
+                                <div class="service-cardborder service-hover5">
+                                    <div class="d-flex justify-content-center">
+                                        <img src="../../public/assets/services/advices.gif" alt="" width="100" height="100">
+                                    </div>
+                                    <h5 class="text-center"> Consultation and Technical Advice</h5>
+                                    <p>
+                                        Gain insights from experienced professionals on technology choices, architecture decisions,
+                                        and best practices for your web development projects.
+                                    </p>
+                                </div>
                             </div>
-                            <h5 class="text-center"> Consultation and Technical Advice</h5>
-                            <p>
-                                Gain insights from experienced professionals on technology choices, architecture decisions,
-                                and best practices for your web development projects.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
-                        <div class="service-cardborder service-hover6">
-                            <div class="d-flex justify-content-center">
-                                <img src="../../public/assets/services/responsive.gif" alt="" width="100" height="100">
+                            <div class="col-lg-4 col-md-6 col-sm-12 col-12 mb-4 service-cards">
+                                <div class="service-cardborder service-hover6">
+                                    <div class="d-flex justify-content-center">
+                                        <img src="../../public/assets/services/responsive.gif" alt="" width="100" height="100">
+                                    </div>
+                                    <h5 class="text-center"> Responsive Design</h5>
+                                    <p>
+                                        Create websites that adapt flawlessly to various devices and screen sizes, delivering a
+                                        consistent user experience across platforms.
+                                    </p>
+                                </div>
                             </div>
-                            <h5 class="text-center"> Responsive Design</h5>
-                            <p>
-                                Create websites that adapt flawlessly to various devices and screen sizes, delivering a
-                                consistent user experience across platforms.
-                            </p>
-                        </div>
                     </div>
+                
                 </div>
             </div>
         </div>
@@ -788,7 +791,7 @@ export default {
     }
     .color-div3{
         background-color: #202026;
-        width: 100vw;
+        width: 88vw;
         height: 10vh;
         /* border-radius: 50%; */
         position: absolute;
