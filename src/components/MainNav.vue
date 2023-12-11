@@ -247,7 +247,7 @@ export default {
             }
            .nav-image {
             text-align: center;
-            background-color: black;
+            background-color: #29323D;
             height: 45px;
             border-radius: 10px;
         }
@@ -370,7 +370,7 @@ export default {
       z-index: 999;
     }
     .fixed-nav{
-        background-color: #2A9AEB;
+        background-color: black;
         color: white;
         width: 100%;
     }
